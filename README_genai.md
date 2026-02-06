@@ -101,7 +101,7 @@ ai_ops_assistant/
 ### 1 Clone Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/Ananta01Nayk/genai_multi_tools.git>
 cd ai_ops_assistant
 ```
 
@@ -153,7 +153,7 @@ ALPHAVANTAGE_API_KEY=your_alphavantage_key
 ### 5 Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run app.py or python -m streamlit run app.py
 ```
 
 The app will be available at:
