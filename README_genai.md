@@ -204,3 +204,6 @@ This project demonstrates a **robust GenAI system** with:
 - reduced hallucinations
 - real-world API integration
 - modular, scalable design
+
+## demo video 
+-link :- https://1drv.ms/v/c/0fb9a2ba47bfb989/IQB_t8laHaaZQKbYHU8Ml1L3AQw1RQoOTMWBybP8YtUiuZg?e=hje90A
